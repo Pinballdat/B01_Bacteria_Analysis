@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+../00.Genome_data/B01_contigs.fasta	NODE_1_length_1640392_cov_175.541136	334236	334714	+	SAT	1-489/522	========/======	3/10	91.76	80.98	megares	MEG_6164	Drugs:Nucleosides:Streptothricin_acetyltransferase:SAT	
+../00.Genome_data/B01_contigs.fasta	NODE_1_length_1640392_cov_175.541136	334941	336317	+	TETL	1-1377/1377	===============	0/0	100.00	86.42	megares	MEG_7102	Drugs:Tetracyclines:Tetracycline_resistance_MFS_efflux_pumps:TETL	
+../00.Genome_data/B01_contigs.fasta	NODE_3_length_394428_cov_270.821365	51809	52330	-	SAT	1-522/522	===============	0/0	100.00	85.82	megares	MEG_6164	Drugs:Nucleosides:Streptothricin_acetyltransferase:SAT	

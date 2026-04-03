@@ -1,0 +1,5 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+../00.Genome_data/B01_contigs.fasta	NODE_1_length_1640392_cov_175.541136	334236	334714	+	satA_Bsub	1-489/522	========/======	3/10	91.76	80.98	ncbi	NG_064662.1	streptothricin N-acetyltransferase SatA	STREPTOTHRICIN
+../00.Genome_data/B01_contigs.fasta	NODE_1_length_1640392_cov_175.541136	334941	336317	+	tet(L)	1-1377/1377	===============	0/0	100.00	86.42	ncbi	NG_048204.1	tetracycline efflux MFS transporter Tet(L)	TETRACYCLINE
+../00.Genome_data/B01_contigs.fasta	NODE_1_length_1640392_cov_175.541136	1037954	1040550	-	rphC	1-2606/2607	========/======	6/27	99.27	80.19	ncbi	NG_063825.1	rifamycin-inactivating phosphotransferase RphC	RIFAMYCIN
+../00.Genome_data/B01_contigs.fasta	NODE_3_length_394428_cov_270.821365	51809	52330	-	satA_Bsub	1-522/522	===============	0/0	100.00	85.82	ncbi	NG_064662.1	streptothricin N-acetyltransferase SatA	STREPTOTHRICIN
