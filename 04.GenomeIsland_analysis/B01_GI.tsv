@@ -1,0 +1,189 @@
+Island start	Island end	Length	Method	Gene name	Gene ID	Locus	Gene start	Gene end	Strand	Product	External Annotations
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02628	441269	441601	1	Protein SprT-like protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02620	442525	442794	-1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02619	443387	443854	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02618	443905	444069	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method		rapI_3	KOPMJODN_02617	444195	444878	1	Response regulator aspartate phosphatase I	
+441269	483225	41956	Predicted by at least one method		rapI_2	KOPMJODN_02616	444875	445369	1	Response regulator aspartate phosphatase I	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02615	445326	445451	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method		yobK_3	KOPMJODN_02614	445651	445926	-1	Antitoxin YobK	
+441269	483225	41956	Predicted by at least one method		yobK_2	KOPMJODN_02613	445930	446100	-1	Antitoxin YobK	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02612	446109	446627	-1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method		yokI	KOPMJODN_02611	446638	448359	-1	putative ribonuclease YokI	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02610	449251	449700	-1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02609	450578	451081	-1	Putative HTH-type transcriptional regulator	
+441269	483225	41956	Predicted by at least one method		azoR1_2	KOPMJODN_02608	451279	451920	1	FMN-dependent NADH-azoreductase 1	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02607	452077	452196	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method		ywrO_2	KOPMJODN_02606	452395	452919	1	General stress protein 14	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02605	453368	453625	-1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method		aes	KOPMJODN_02604	453773	454720	-1	Acetyl esterase	
+441269	483225	41956	Predicted by at least one method		ohrA_2	KOPMJODN_02603	454796	455215	-1	Organic hydroperoxide resistance protein OhrA	
+441269	483225	41956	Predicted by at least one method		ohrR_2	KOPMJODN_02602	455648	456088	1	Organic hydroperoxide resistance transcriptional regulator	
+441269	483225	41956	Predicted by at least one method		ywnA_2	KOPMJODN_02601	456576	456980	-1	Putative HTH-type transcriptional regulator YwnA	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02600	457219	457857	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method		des_2	KOPMJODN_02599	458042	459070	-1	Fatty acid desaturase	
+441269	483225	41956	Predicted by at least one method		cspC	KOPMJODN_02598	459741	459944	1	Cold shock protein CspC	
+441269	483225	41956	Predicted by at least one method		carD	KOPMJODN_02597	460565	461026	-1	RNA polymerase-binding transcription factor CarD	
+441269	483225	41956	Predicted by at least one method		yfcA	KOPMJODN_02596	462302	463072	1	putative membrane transporter protein YfcA	
+441269	483225	41956	Predicted by at least one method		proP	KOPMJODN_02595	463958	465361	1	Proline/betaine transporter	
+441269	483225	41956	Predicted by at least one method		gabR_2	KOPMJODN_02594	465714	466565	1	HTH-type transcriptional regulatory protein GabR	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02593	466921	467490	-1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02592	467477	467794	-1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02591	468088	468993	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02590	469015	470277	1	L-lactate transporter	
+441269	483225	41956	Predicted by at least one method		cotR	KOPMJODN_02589	470343	471305	-1	Putative sporulation hydrolase CotR	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02588	471558	471920	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02587	471986	472351	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02586	472943	473263	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method		yvdP_1	KOPMJODN_02585	473608	474954	1	putative FAD-linked oxidoreductase YvdP	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02584	475032	475454	-1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method		czcD	KOPMJODN_02583	475662	476603	1	Cadmium, cobalt and zinc/H(+)-K(+) antiporter	
+441269	483225	41956	Predicted by at least one method		czcO	KOPMJODN_02582	476667	477704	1	putative oxidoreductase CzcO	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02581	478127	478687	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method		satA_2	KOPMJODN_02580	479030	479551	1	Streptothricin acetyltransferase A	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02579	479668	480198	-1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02578	480390	480776	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method			KOPMJODN_02577	481141	482103	1	hypothetical protein	
+441269	483225	41956	Predicted by at least one method		adhA	KOPMJODN_02576	482176	483225	-1	putative formaldehyde dehydrogenase AdhA	
+475662	480776	5114	Predicted by at least one method		czcD	KOPMJODN_02583	475662	476603	1	Cadmium, cobalt and zinc/H(+)-K(+) antiporter	
+475662	480776	5114	Predicted by at least one method		czcO	KOPMJODN_02582	476667	477704	1	putative oxidoreductase CzcO	
+475662	480776	5114	Predicted by at least one method			KOPMJODN_02581	478127	478687	1	hypothetical protein	
+475662	480776	5114	Predicted by at least one method		satA_2	KOPMJODN_02580	479030	479551	1	Streptothricin acetyltransferase A	
+475662	480776	5114	Predicted by at least one method			KOPMJODN_02579	479668	480198	-1	hypothetical protein	
+475662	480776	5114	Predicted by at least one method			KOPMJODN_02578	480390	480776	1	hypothetical protein	
+1083876	1088883	5007	Predicted by at least one method			KOPMJODN_03220	1083876	1084232	-1	hypothetical protein	
+1083876	1088883	5007	Predicted by at least one method			KOPMJODN_03221	1084229	1084840	-1	hypothetical protein	
+1083876	1088883	5007	Predicted by at least one method			KOPMJODN_03759	1086165	1086383	1	hypothetical protein	
+1083876	1088883	5007	Predicted by at least one method			KOPMJODN_03760	1086568	1087749	1	hypothetical protein	
+1083876	1088883	5007	Predicted by at least one method			KOPMJODN_03761	1087782	1088015	1	hypothetical protein	
+1083876	1088883	5007	Predicted by at least one method			KOPMJODN_03762	1088032	1088376	1	hypothetical protein	
+1083876	1088883	5007	Predicted by at least one method		rok_2	KOPMJODN_03763	1088443	1088883	1	Repressor Rok	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_01007	1677943	1678377	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method		yosS	KOPMJODN_01006	1678472	1678759	-1	SPbeta prophage-derived deoxyuridine 5'-triphosphate nucleotidohydrolase YosS	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_01005	1678902	1679129	-1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_01004	1679212	1679394	-1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_01003	1680533	1680994	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_01002	1681080	1681349	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_01001	1681585	1682109	-1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_01000	1682193	1682447	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00999	1682567	1682884	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00998	1682881	1683099	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00997	1683469	1684563	-1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method		xylP_1	KOPMJODN_00996	1685119	1686510	1	Isoprimeverose transporter	
+1677943	1702319	24376	Predicted by at least one method		xynB	KOPMJODN_00995	1686552	1688153	1	Beta-xylosidase	
+1677943	1702319	24376	Predicted by at least one method		nagC	KOPMJODN_00994	1688266	1689420	-1	N-acetylglucosamine repressor	
+1677943	1702319	24376	Predicted by at least one method		xylA	KOPMJODN_00993	1689662	1690999	1	Xylose isomerase	
+1677943	1702319	24376	Predicted by at least one method		xylB_1	KOPMJODN_00992	1691115	1692617	1	Xylulose kinase	
+1677943	1702319	24376	Predicted by at least one method		rphC	KOPMJODN_00991	1692993	1695590	1	rifamycin-inactivating phosphotransferase RphC	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00990	1695822	1695917	-1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00989	1696393	1696578	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00988	1696617	1696865	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00987	1696931	1697842	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00986	1697907	1698407	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method		adh_2	KOPMJODN_00985	1698525	1699541	-1	Alcohol dehydrogenase	
+1677943	1702319	24376	Predicted by at least one method		caiE	KOPMJODN_00984	1699793	1700440	1	Carnitine operon protein CaiE	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00983	1700844	1701134	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00982	1701441	1701860	1	hypothetical protein	
+1677943	1702319	24376	Predicted by at least one method			KOPMJODN_00981	1701909	1702319	1	hypothetical protein	
+2728124	2735939	7815	Predicted by at least one method			KOPMJODN_00003	2728124	2729221	-1	hypothetical protein	
+2728124	2735939	7815	Predicted by at least one method		gloB_1	KOPMJODN_00002	2729246	2731990	-1	Hydroxyacylglutathione hydrolase	
+2728124	2735939	7815	Predicted by at least one method		dltA_1	KOPMJODN_00001	2732043	2733335	-1	D-alanine--D-alanyl carrier protein ligase	
+2728124	2735939	7815	Predicted by at least one method			KOPMJODN_03694	2734677	2734826	-1	hypothetical protein	
+2728124	2735939	7815	Predicted by at least one method			KOPMJODN_03693	2734831	2735196	-1	hypothetical protein	
+2728124	2735939	7815	Predicted by at least one method			KOPMJODN_03692	2735217	2735939	-1	hypothetical protein	
+2728124	2735939	7815	Predicted by at least one method			KOPMJODN_03691	2735936	2736748	-1	hypothetical protein	
+2970630	2983246	12616	Predicted by at least one method		bsn	KOPMJODN_02358	2970630	2971496	1	Extracellular ribonuclease	
+2970630	2983246	12616	Predicted by at least one method			KOPMJODN_02357	2972357	2973085	-1	hypothetical protein	
+2970630	2983246	12616	Predicted by at least one method		hisC_2	KOPMJODN_02356	2973216	2974697	1	Histidinol-phosphate aminotransferase	
+2970630	2983246	12616	Predicted by at least one method			KOPMJODN_02355	2974854	2975147	1	hypothetical protein	
+2970630	2983246	12616	Predicted by at least one method			KOPMJODN_02354	2975110	2975475	1	IS1182 family transposase ISOih1	
+2970630	2983246	12616	Predicted by at least one method			KOPMJODN_02353	2976803	2977513	1	hypothetical protein	
+2970630	2983246	12616	Predicted by at least one method		mgl	KOPMJODN_02352	2977545	2978741	1	L-methionine gamma-lyase	
+2970630	2983246	12616	Predicted by at least one method			KOPMJODN_02351	2978799	2979764	1	hypothetical protein	
+2970630	2983246	12616	Predicted by at least one method			KOPMJODN_02350	2979881	2980033	1	hypothetical protein	
+2970630	2983246	12616	Predicted by at least one method		msmX_2	KOPMJODN_02349	2980352	2981455	-1	Oligosaccharides import ATP-binding protein MsmX	
+2970630	2983246	12616	Predicted by at least one method		yurK	KOPMJODN_02348	2981636	2982364	1	putative HTH-type transcriptional regulator YurK	
+2970630	2983246	12616	Predicted by at least one method		frlD	KOPMJODN_02347	2982389	2983246	-1	Fructosamine kinase FrlD	
+3170867	3177212	6345	Predicted by at least one method			KOPMJODN_02152	3170867	3171397	-1	IS1595 family transposase ISCac2	
+3170867	3177212	6345	Predicted by at least one method			KOPMJODN_02151	3171435	3172070	-1	hypothetical protein	
+3170867	3177212	6345	Predicted by at least one method		paiA	KOPMJODN_02150	3172190	3172708	1	Spermidine/spermine N(1)-acetyltransferase	
+3170867	3177212	6345	Predicted by at least one method		padC	KOPMJODN_02149	3172762	3173250	-1	Phenolic acid decarboxylase PadC	
+3170867	3177212	6345	Predicted by at least one method			KOPMJODN_02148	3173761	3174105	-1	hypothetical protein	
+3170867	3177212	6345	Predicted by at least one method			KOPMJODN_02147	3174471	3174785	-1	hypothetical protein	
+3170867	3177212	6345	Predicted by at least one method			KOPMJODN_02146	3174893	3175336	1	hypothetical protein	
+3170867	3177212	6345	Predicted by at least one method			KOPMJODN_02145	3175396	3175683	-1	hypothetical protein	
+3170867	3177212	6345	Predicted by at least one method			KOPMJODN_02144	3175794	3177212	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method		gyrB	KOPMJODN_01553	3763044	3764966	1	DNA gyrase subunit B	
+3763044	3842316	79272	Predicted by at least one method		gyrA	KOPMJODN_01552	3765183	3767642	1	DNA gyrase subunit A	
+3763044	3842316	79272	Predicted by at least one method		sigO_2	KOPMJODN_03745	3783175	3783723	1	RNA polymerase sigma factor SigO	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03746	3783727	3783939	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03748	3784081	3784329	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03749	3784332	3784529	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method		cwlC_2	KOPMJODN_03750	3784541	3785074	1	Sporulation-specific N-acetylmuramoyl-L-alanine amidase	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03751	3785089	3785226	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method		xerD_2	KOPMJODN_03752	3785346	3786278	-1	Tyrosine recombinase XerD	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03753	3786317	3786829	-1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03754	3787100	3787366	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03755	3787439	3787630	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03756	3787750	3788043	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03757	3788208	3788756	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03758	3788865	3789185	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03768	3803366	3803677	-1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03769	3803824	3804336	-1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method		nucH	KOPMJODN_03770	3804394	3804954	-1	Thermonuclease	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03771	3805182	3805451	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03772	3805613	3806152	-1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03773	3806455	3806712	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03774	3807108	3807275	-1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03775	3807318	3807593	-1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03776	3807673	3807957	-1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03777	3807964	3808200	-1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03778	3808178	3808843	-1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03779	3808863	3809021	-1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03695	3816677	3816829	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03696	3816883	3817101	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03697	3817166	3817549	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03698	3817559	3818029	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03699	3818041	3818217	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03700	3818245	3818520	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03701	3818617	3819312	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03702	3819338	3822028	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03703	3822032	3824401	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03704	3824465	3824755	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03705	3824769	3825659	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03706	3825667	3827601	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03707	3827606	3828658	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03708	3828679	3829251	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03709	3829275	3830168	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03710	3830174	3830665	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03711	3830947	3831192	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03712	3831185	3832360	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03713	3832402	3832800	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03714	3832826	3833095	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03715	3833169	3834566	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method		topB_2	KOPMJODN_03716	3834650	3836827	1	DNA topoisomerase 3	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03717	3836847	3837884	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03718	3837998	3838972	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method		ssbA_2	KOPMJODN_03719	3838994	3839512	1	Single-stranded DNA-binding protein A	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03720	3839673	3840251	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03721	3840251	3840505	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03722	3840556	3842028	1	hypothetical protein	
+3763044	3842316	79272	Predicted by at least one method			KOPMJODN_03723	3842068	3842316	1	hypothetical protein	
+3785346	3804954	19608	Predicted by at least one method		xerD_2	KOPMJODN_03752	3785346	3786278	-1	Tyrosine recombinase XerD	
+3785346	3804954	19608	Predicted by at least one method			KOPMJODN_03753	3786317	3786829	-1	hypothetical protein	
+3785346	3804954	19608	Predicted by at least one method			KOPMJODN_03754	3787100	3787366	1	hypothetical protein	
+3785346	3804954	19608	Predicted by at least one method			KOPMJODN_03755	3787439	3787630	1	hypothetical protein	
+3785346	3804954	19608	Predicted by at least one method			KOPMJODN_03756	3787750	3788043	1	hypothetical protein	
+3785346	3804954	19608	Predicted by at least one method			KOPMJODN_03757	3788208	3788756	1	hypothetical protein	
+3785346	3804954	19608	Predicted by at least one method			KOPMJODN_03758	3788865	3789185	1	hypothetical protein	
+3785346	3804954	19608	Predicted by at least one method			KOPMJODN_03768	3803366	3803677	-1	hypothetical protein	
+3785346	3804954	19608	Predicted by at least one method			KOPMJODN_03769	3803824	3804336	-1	hypothetical protein	
+3785346	3804954	19608	Predicted by at least one method		nucH	KOPMJODN_03770	3804394	3804954	-1	Thermonuclease	
+3808178	3817549	9371	Predicted by at least one method			KOPMJODN_03777	3807964	3808200	-1	hypothetical protein	
+3808178	3817549	9371	Predicted by at least one method			KOPMJODN_03778	3808178	3808843	-1	hypothetical protein	
+3808178	3817549	9371	Predicted by at least one method			KOPMJODN_03779	3808863	3809021	-1	hypothetical protein	
+3808178	3817549	9371	Predicted by at least one method			KOPMJODN_03695	3816677	3816829	1	hypothetical protein	
+3808178	3817549	9371	Predicted by at least one method			KOPMJODN_03696	3816883	3817101	1	hypothetical protein	
+3808178	3817549	9371	Predicted by at least one method			KOPMJODN_03697	3817166	3817549	1	hypothetical protein	
+3843024	3867228	24204	Predicted by at least one method			KOPMJODN_03726	3843024	3843632	1	hypothetical protein	
+3843024	3867228	24204	Predicted by at least one method			KOPMJODN_03780	3864859	3867228	-1	hypothetical protein	
